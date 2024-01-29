@@ -19,35 +19,23 @@ A CRM, or Customer Relationship Management system, is a software solution design
 
 9. **Customer Retention:** Besides working one on one with your CFIs and walking though the front door and talking to your administrative staff, many flight schools do not capitalize on digital marketing to keep student pilots engaged and active in your community.
 
-10. **Touch the Rolodex:** A CRM platform offers multiple methods of reaching out to active and inactive students.  Whether through emails, phone, or text; you can keep track of the communication history and notes to build a vibrant community around your flight school.
+10. **Touching the Rolodex:** CRMs are the modern equivalent of a Rolodex.  FSCRM offers multiple methods of reaching out to active and inactive students.  Whether through emails, phone, or text; you can keep track of the communication history and notes to build a vibrant community around your flight school.
 
 
 ### How do CRMs help grow flight school businesses?
 
-**How do CRMs help grow flight school businesses?**
+Many flight schools rely solely on excel sheets and sticky notes.  While this works for a while, as your flight school scales and more employees are brought into your team, having a CRM helps manage all of those inquiries to ensure you're receiving the most posable amount of revenue.
 
-Implementing a CRM (Customer Relationship Management) system in flight school businesses contributes to their growth in several ways:
-
-1. **Improved Student Management:** CRMs organize and centralize student information, making it easier to track progress, customize training programs, and provide a personalized learning experience. This, in turn, enhances student satisfaction and retention.
-
-2. **Efficient Scheduling:** CRMs streamline the scheduling of flight lessons, instructor availability, and aircraft usage. This efficiency not only improves the overall learning experience for students but also optimizes resource utilization, contributing to cost-effectiveness.
-
-3. **Enhanced Communication:** Effective communication is essential in a flight school. CRMs facilitate seamless communication between students, instructors, and administrative staff, fostering a collaborative and supportive learning environment.
-
-4. **Data-Driven Decision Making:** CRMs provide valuable insights through analytics and reporting tools. Flight schools can use this data to identify trends, assess the effectiveness of training programs, and make informed decisions for continuous improvement.
-
-5. **Lead and Inquiry Management:** CRMs help flight schools capture, organize, and follow up on leads efficiently. This ensures that potential students receive timely and personalized information, increasing the likelihood of conversion.
-
-6. **Resource Optimization:** Managing aircraft, instructors, and facilities is made more efficient with CRMs. By optimizing resource allocation, flight schools can accommodate growth without compromising on quality or incurring unnecessary costs.
-
-7. **Scalability:** CRMs are scalable and can adapt to the changing needs of a growing flight school. As the business expands, the CRM system can accommodate an increasing number of students, instructors, and additional features.
-
-8. **Customer Retention:** Building long-term relationships with students is crucial for sustained growth. CRMs help flight schools understand individual student needs, allowing for personalized experiences and strategies to enhance customer loyalty.
-
-10. **Time and Cost Savings:** By automating repetitive tasks and streamlining processes, CRMs save time and reduce operational costs. This allows flight schools to focus on delivering high-quality training and expanding their offerings.
+In addition to tracking leads and storing contact information, having a CRM helps identify what part in your sales pipeline needs more attention.
 
 ### How many user accounts are allowed?  Can I have multiple user accounts?
 
+There are no limits on number of users.
+
 ## Further reading
+
+- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+
+## Useful pages
 
 - Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
