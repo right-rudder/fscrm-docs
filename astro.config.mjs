@@ -11,15 +11,27 @@ export default defineConfig({
 			//},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Getting Started',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'How to get FSCRM', link: '/getting-started/how_to_get/' },
+            { label: 'Setup Onboarding', link: 'https://flightschoolcrm.com/contact' }, //link to main site for calendly
+            { label: 'Quick Start Guide', link: '/getting-started/example/' },
+            { label: 'FAQs', link: '/getting-started/faqs/' },
+            { label: 'Support Ticket', link: 'https://flightschoolcrm.com/contact' }, //link to main site for support ticket
 					],
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+        {
+					label: 'How To Guides',
+					autogenerate: { directory: 'guides' },
+				},
+        {
+					label: 'Features',
+					autogenerate: { directory: 'features' },
+				},
+        {
+					label: 'Integrations',
+					autogenerate: { directory: 'integrations' },
 				},
 			],
 		}),
