@@ -5,10 +5,10 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
+			title: 'Flight School CRM Documentation',
+			//social: {
+			//	github: 'https://github.com/withastro/starlight',
+			//},
 			sidebar: [
 				{
 					label: 'Guides',
