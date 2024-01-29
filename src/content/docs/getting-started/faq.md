@@ -36,11 +36,11 @@ There are no limits on number of users.  You can create user accounts for your e
 
 Please schedule an onboarding call [here](https://flightschoolcrm.com/contact).  A Right Rudder Marketing team member will set up your account and credentials.
 
-## Is FSCRM a scheduler?
+### Is FSCRM a scheduler?
 
 FSCRM has calendar functionalities but is not intended to be a replacement for flight school scheduler software.  The calendar functionality can be used to set appointments or tours to your flight school, but we do recommend against using the software to manage your scheduling.
 
-## How much does FSCRM cost?
+### How much does FSCRM cost?
 
 Please take a look at our [pricing page](https://flightschoolcrm.com/pricing) for more details.
 
