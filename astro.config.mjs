@@ -5,8 +5,12 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Flight School CRM Documentation',
-			//social: {
+			title: 'FSCRM Docs',
+      customCss: [
+        './src/styles/custom.css',
+      ],
+			logo: { src: './src/assets/rightruddermarketinglogosolo.png' },
+      //social: {
 			//	github: 'https://github.com/withastro/starlight',
 			//},
 			sidebar: [
