@@ -1,5 +1,5 @@
 ---
-title: Add Appointment Calendar Form
+title: Embed a Chat on Your Website
 description: A guide in my new Starlight docs site.
 ---
 
