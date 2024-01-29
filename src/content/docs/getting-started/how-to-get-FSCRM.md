@@ -1,5 +1,5 @@
 ---
-title: Example Guide
+title: How to get Flight School CRM
 description: A guide in my new Starlight docs site.
 ---
 
