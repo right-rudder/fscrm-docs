@@ -14,10 +14,10 @@ export default defineConfig({
 					label: 'Getting Started',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'How to get Flight School CRM', link: './getting-started/how-to-get-fscrm' },
+						{ label: 'How to get Flight School CRM', link: '/getting-started/how-to-get-fscrm' },
             { label: 'Setup Onboarding', link: 'https://flightschoolcrm.com/contact' }, //link to main site for calendly
-            { label: 'Quick Start Guide', link: './getting-started/quick-start/' },
-            { label: 'FAQs', link: './getting-started/faq/' },
+            { label: 'Quick Start Guide', link: '/getting-started/quick-start/' },
+            { label: 'FAQs', link: '/getting-started/faq/' },
             { label: 'Support Ticket', link: 'https://flightschoolcrm.com/contact' }, //link to main site for support ticket
 					],
 				},
