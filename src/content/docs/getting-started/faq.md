@@ -44,10 +44,22 @@ FSCRM has calendar functionalities but is not intended to be a replacement for f
 
 Please take a look at our [pricing page](https://flightschoolcrm.com/pricing) for more details.
 
-## Further reading
+### How do I migrate from my existing CRM?
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+Please review our how to guide on [bulk import of CSV contacts](/guides/bulk-import-contacts/).  We also offer full done for you onboarding service as well that you might be interested in.  Take a look at our [pricing page](https://flightschoolcrm.com/pricing) for more details.
+
+### Why choose FSCRM over other CRMs out there in the market?
+
+We understand that there are many other different software companies offering CRM features.  One of main benefit to using FSCRM compared to others is the cost and number of features.  FSCRM provides the functionality your business needs.  To get features like automations, newsletters, form builders, integrations, etc. you're going to need to purchase multiple software packages just to make it work.  FSCRM provides a simple solution to lower the amount of technical burden in your business.
+
+We also give this software away for ***free*** if you already do marketing with [Right Rudder Marketing](https://rightruddermarketing.com) so for many flight schools, it's a no brainer. 
+
+Lastly, it's designed with you, a flight school owner, in mind.
+
+## Additional Questions
+
+If you have additional questions that were not answered here, please reach out to the FSCRM team by [contacting us](https://flightschoolcrm.com/contact).
 
 ## Useful pages
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+- Read over the [quick start guide](/getting-started/quick-start/) and also review the how to guides.
