@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-description: A guide in my new Starlight docs site.
+description: Frequently asked questions about Flight School CRM.
 ---
 
 Frequently asked questions and answers regarding the use of Flight School CRM.
