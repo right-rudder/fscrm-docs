@@ -20,7 +20,7 @@ To get started with FSCRM, you'll need to schedule an onboarding call with one o
    - Set up user accounts in the CRM.
 
 ### 2. **Technical Setup:**
-   - Our team will help setup [subdomains](/guides/setup-subdomain), [phone system](/guides/setup-phone-system), and [SMTP](guides/setup-email) (email) if you've purchased our setup service.  If not, we will direct you to the necessary resources where you can do it yourself and also any additional questions on the call.
+   - Our team will help setup [subdomains](/guides/setup-subdomain), [phone system](/guides/setup-phone-system), and [SMTP](guides/setup-email) (email) if you've purchased our setup service.  If not, we will direct you to the necessary resources where you can do it yourself and also answer any additional questions on the call.
 
 ### 3. **Team Training:**
    - This would be the time where we help teach your team on how to use the CRM and also answer any additional questions on how to best use the CRM for your use case.
@@ -46,13 +46,17 @@ A pipeline is your visual representation of where all of your leads are in the s
 
     If it's outcome 2, you're going to put the lead into this stage.  At this point, you'll want to have one of your team members follow up with this lead to ensure the lead is taking steps to start pilot training soon.  Whether it's securing financing, completing paperwork, or enrolling in ground school; you need to keep the communication rhythm going and **follow up** with them.
 
-    If it's outcome 3, you're going to remove them from the pipeline and categorize them as a won opportunity.  They will still be in the CRM and receive newsletters and communication from your flight school.
+    If it's outcome 3, you're going to remove them from the pipeline and categorize them as a won opportunity.  They will still be in the CRM and receive newsletters and communication from your flight school.  Congrats! You have a new student at your flight school.
 
 Building the pipeline infrastructure is crucial as it documents your sale process via the CRM dashboard.  This is just a brief overview of how to build the pipeline.  For specific technical steps, visit the [pipeline](/features/pipeline) and the [opportunities](/features/opportunities).
 
-### Import Contacts
+## Import Contacts
 
 Now that your settings are configured from onboarding and your pipeline is created, the next step is to import all of your contacts into the CRM.  FSCRM makes it easy to import your contact database via [bulk import of CSV contacts](/guides/bulk-import-contacts/).
+
+## Integrate Forms
+
+## Create Automations
 
 ## Need more help?
 
