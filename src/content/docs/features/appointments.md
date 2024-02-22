@@ -1,6 +1,6 @@
 ---
 title: Appointments
-description: A reference page in my new Starlight docs site.
+description: About the Appointments feature.
 ---
 ![Book Appointment](/public/features/book-appointment.webp)
 
