@@ -1,10 +1,12 @@
 ---
 title: Phone System
-description: A reference page in my new Starlight docs site.
+description: About the Phone System feature.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+The Phone System feature is best used to efficiently manage inbound calls through customizable call routing and advanced call management capabilities. Flight schools can set up personalized call flows to direct incoming calls to the appropriate destinations based on various criteria such as the nature of the inquiry or the caller's location. This ensures that callers are promptly connected to the right person or department, enhancing customer service and responsiveness.
+
+Additionally, the Phone System supports call waterfalling, call forwarding, voicemail, and IVR menus, enabling flight schools to provide a seamless and professional calling experience for their students and prospects. Integration with other communication channels and CRM functionalities ensures centralized tracking and management of all interactions, offering valuable insights into call activities and optimizing communication workflows. With the Phone System feature, flight schools can streamline their phone-based communications and improve operational efficiency.
+
 
 ## Further reading
 

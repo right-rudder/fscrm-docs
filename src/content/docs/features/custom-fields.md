@@ -1,10 +1,10 @@
 ---
 title: Custom Fields
-description: A reference page in my new Starlight docs site.
+description: About the Custom Fields feature.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+Tailor the CRM system to your specific needs with the Custom Fields feature, which allows flight schools to create and customize fields to capture unique data points and attributes. Whether tracking student preferences, certification levels, or training requirements, organizations can configure the CRM to align with their business processes and workflows. The Custom Fields feature offers flexibility and scalability, enabling flight schools to adapt and evolve their CRM system as their needs change over time. With custom fields, organizations can capture and manage critical information effectively, enhancing data visibility and decision-making.
+
 
 ## Further reading
 
