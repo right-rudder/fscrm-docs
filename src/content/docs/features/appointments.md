@@ -2,7 +2,7 @@
 title: Appointments
 description: About the Appointments feature.
 ---
-![Book Appointment](/public/features/book-appointment.webp)
+![Book Appointment](/features/book-appointment.webp)
 
 The Appointments feature within FSCRM empowers flight schools to efficiently manage their scheduling needs, offering a solution for booking various types of appointments directly on their calendar. Flight schools can leverage this feature to schedule a diverse range of activities, from introductory discovery flights and school visits to essential ground schooling sessions. Moreover, the flexibility of the Appointments feature allows for the scheduling of flight times, providing students with convenient access to book their training sessions directly through the CRM platform.
 
