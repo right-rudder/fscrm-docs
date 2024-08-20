@@ -1,11 +1,16 @@
 ---
 title: Custom Fields
-description: About the Custom Fields feature.
+description: Tailor your CRM data with FSCRM’s Custom Fields feature.
 ---
 
-Tailor the CRM system to your specific needs with the Custom Fields feature, which allows flight schools to create and customize fields to capture unique data points and attributes. Whether tracking student preferences, certification levels, or training requirements, organizations can configure the CRM to align with their business processes and workflows. The Custom Fields feature offers flexibility and scalability, enabling flight schools to adapt and evolve their CRM system as their needs change over time. With custom fields, organizations can capture and manage critical information effectively, enhancing data visibility and decision-making.
+![Custom Fields](/public/features/custom-fields.webp)
 
+The Custom Fields feature in FSCRM allows you to create and customize fields to capture unique data points specific to your flight school’s needs. Whether tracking student preferences, certification levels, or other attributes, you can configure the CRM to align with your operations.
+
+This feature offers flexibility and scalability, enabling you to adapt your CRM system as your needs evolve. By capturing and managing critical information effectively, you enhance data visibility and decision-making.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Form Builder](/features/form-builder)
+- [Google My Business Integration](/integrations/google-my-business)
+- [Reputation Management](/features/reputation-management)

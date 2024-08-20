@@ -1,15 +1,14 @@
 ---
 title: Notes
-description: About the Notes feature.
+description: Keep detailed records of interactions directly within each contact profile using FSCRM’s Notes feature.
 ---
 
-The Notes feature in FSCRM is vital to tracking and documenting interactions with students and ensuring detailed records of every engagement. In instances where an email or call may not be logged, Notes provide a valuable means of capturing important information, sentiments, or updates related to a student's flight training journey.
+![Notes](/public/features/notes.webp)
 
-Flight schools can utilize the Notes feature to record key details of conversations, meetings, or interactions with students, including any feedback, inquiries, or concerns expressed by the student. These notes serve as a centralized repository of information, allowing staff members to access and reference them as needed to provide personalized and informed support to students.
-
-Furthermore, the Notes feature enables flight schools to maintain a chronological history of interactions with each student, facilitating continuity and consistency in communication and relationship management. Whether it's documenting progress milestones, scheduling follow-up actions, or logging important updates, Notes help ensure that valuable information is noticed and remembered.
-
+The Notes feature in FSCRM allows you to document important details directly within each contact’s profile. Whether you're capturing information from conversations, meetings, or other interactions, these notes are seamlessly linked to their associated opportunities. This ensures that all relevant information is accessible where it's needed most, helping you maintain continuity and consistency in communication across your team.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Dashboard](/features/dashboard)
+- [Automations](/features/automations)
+- [Google Calendar Integration](/integrations/google-calendar)

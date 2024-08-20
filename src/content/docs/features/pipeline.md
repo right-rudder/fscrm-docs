@@ -1,15 +1,16 @@
 ---
 title: Pipeline
-description: About the Pipeline feature.
+description: Visualize and manage your sales process with FSCRM’s Pipeline feature.
 ---
 
-Pipeline is used to visualize the status of each opportunity within a sales process, providing valuable insights into the conversion process and projected revenue. By presenting opportunities in a clear and organized manner, the Pipeline feature enables users to assess the health of their sales funnel and make informed decisions to drive business growth.
+![Pipeline](/public/features/pipeline.webp)
 
-Flight schools can leverage the Pipeline feature to track the progression of opportunities through various stages of the enrollment journey, from initial contact to enrollment confirmation. Each stage represents a crucial milestone in the conversion process, allowing users to identify bottlenecks, prioritize activities, and allocate resources effectively to maximize conversion rates.
+The Pipeline feature in FSCRM offers a clear visualization of your sales process, allowing you to track the progress of each opportunity from initial contact to final enrollment. This feature enables you to see where each lead stands, identify bottlenecks, and take proactive steps to move them through the pipeline.
 
-The Pipeline feature also serves as a valuable forecasting tool, enabling flight schools to anticipate revenue streams and plan for future growth with confidence. By analyzing the distribution of opportunities across different stages of the pipeline, users can gain insights into the timing and magnitude of potential revenue inflows, facilitating strategic decision-making and resource allocation.
-
+You can monitor the volume of opportunities at each stage and forecast potential revenue, helping you plan and allocate resources effectively. The Pipeline feature is essential for ensuring that your sales process is transparent, organized, and geared toward maximum conversion.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Automations](/features/automations)
+- [Tasks](/features/tasks)
+- [Calendar](/features/calendar)

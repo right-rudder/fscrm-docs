@@ -1,15 +1,16 @@
 ---
 title: Tasks
-description: About the Tasks feature.
+description: Assign and track responsibilities with FSCRM’s Tasks feature.
 ---
 
-Use Tasks as a collaborative tool to facilitate communication and assign work effectively among team members. With this feature, flight school administrators and staff can create, assign, and track tasks related to various aspects of operations, ensuring that key responsibilities are managed efficiently and deadlines are met consistently.
+![Tasks](/public/features/tasks.webp)
 
-Administrators can create tasks for specific team members, outlining the details, deadlines, and priorities associated with each assignment. By assigning tasks directly within the CRM platform, flight school staff can easily access their assigned responsibilities, track progress, and stay organized without the need for external task management tools or email chains.
+The Tasks feature in FSCRM helps you manage and assign responsibilities across your team. Create tasks, set priorities, and assign deadlines to ensure that all critical activities are handled efficiently. This feature provides clear visibility into what needs to be done and by whom, helping you stay organized and on track.
 
-Additionally, the Tasks feature enables flight school administrators to set priorities and deadlines for each task, ensuring that important initiatives and projects are completed promptly. By establishing clear timelines and expectations, flight school teams can prioritize their workload effectively, allocate resources efficiently, and prevent tasks from falling through the cracks.
-
+Tasks can be linked to specific contacts or opportunities, ensuring that every action is relevant and timely. This collaborative tool enhances communication within your team and ensures that no important task is overlooked.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Opportunities](/features/opportunities)
+- [Notes](/features/notes)
+- [Zapier Integration](/integrations/zapier)

@@ -1,15 +1,16 @@
 ---
 title: Calendar
-description: About the Calendar feature.
+description: Keep your schedules organized with FSCRM’s integrated Calendar feature.
 ---
 
-FSCRM integrates with other calendar platforms, including Google Calendar, iCloud, and Outlook, offering a centralized hub for managing events and appointments. By linking existing calendars to the FSCRM platform, flight schools can access their schedules directly within the CRM interface, eliminating the need to switch between multiple applications or tabs to stay informed about upcoming events.
+![Calendar](/public/features/calendar.webp)
 
-With this integration, flight schools can conveniently view and manage their calendars within the familiar FSCRM environment, ensuring that all essential information is easily accessible and up-to-date. Whether it's scheduling flight training sessions, coordinating instructor availability, or planning special events, flight schools can leverage the Calendar feature to efficiently manage their schedules and stay organized.
+The Calendar feature in FSCRM integrates seamlessly with platforms like Google Calendar, iCloud, and Outlook, bringing all your scheduling needs into one central location. Whether you’re managing appointments, training sessions, or team meetings, this feature ensures that everyone stays on the same page.
 
-Additionally, the Calendar feature in FSCRM provides flight schools with enhanced visibility and collaboration capabilities, allowing multiple users to access and interact with shared calendars in real time. This fosters greater transparency and coordination among team members, facilitating seamless communication and ensuring that everyone is on the same page regarding upcoming events and commitments.
-
+Shared calendars allow for real-time collaboration, making it easy to coordinate availability and avoid scheduling conflicts. The Calendar feature also helps you keep track of important dates, deadlines, and events, ensuring your operations run smoothly and efficiently.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Form Builder](/features/form-builder)
+- [Conversations](/features/conversations)
+- [Send a Newsletter](/guides/send-newsletter)

@@ -3,69 +3,80 @@ title: Email Drip Sequence
 description: How to set up an email drip sequence in FSCRM.
 ---
 
-# Email Drip Sequence
+An email drip sequence helps nurture leads by sending automated emails over time, based on specific triggers. Follow these steps to create a customized email drip sequence tailored to your flight school's needs:
 
-Automations streamline your workflow by automating repetitive tasks and communications. Follow these steps to create a customized email drip sequence tailored to your flight school's needs:
+## 1. Navigate to Automations
 
-## 1. Navigate to Automations:
-Access the "Automations" tab on the sidebar menu of your FSCRM dashboard.
+Start by accessing the "Automations" tab on the sidebar menu of your FSCRM dashboard.
 
 ![Automations Tab](/public/build-automations-guide/automations-tab.webp)
 
-## 2. Create a New Workflow:
-Click on "Create Workflow" to initiate the workflow creation process.
+## 2. Create a New Workflow
+
+Click on "Create Workflow" to initiate the process of building your email drip sequence.
 
 ![Create Workflow](/public/build-automations-guide/choose-workflow.webp)
 
-## 3. Indicate a Trigger:
-Choose a trigger that will initiate the email drip sequence, such as a form submission or a specific event.
+## 3. Set a Trigger
+
+Choose a trigger that will start the email drip sequence. Common triggers include a form submission or a specific event, such as a lead signing up for more information.
 
 ![Indicate Trigger](/public/email-drip-guide/create-trigger-drip.webp)
 
-## 4. Create an Email:
-Add an email action to the workflow. Design your email with compelling content and visuals to engage your audience.
+## 4. Design Your First Email
+
+Add an email action to the workflow. Craft your email content with engaging visuals and compelling text to captivate your audience.
 
 ![Create Email](/public/email-drip-guide/create-email.webp)
 
-## 5. Write a Message with Dynamic Fields:
-Personalize your email message using dynamic fields to address each recipient by name or other relevant information.
+## 5. Personalize with Dynamic Fields
+
+Enhance your emails by using dynamic fields, which allow you to personalize messages with details like the recipient's name or specific interests.
 
 ![Dynamic Fields](/public/email-drip-guide/insert-dynamic-fields.webp)
 
-## 6. Save Your Email:
-After composing your email, save it to ensure that your changes are preserved.
+## 6. Save Your Email
+
+After composing your email, make sure to save it to preserve your content and settings.
 
 ![Save Email](/public/email-drip-guide/write-email.webp)
 
-## 7. Set Email Event:
-Configure an email event to wait until the contact either opens the email or remains unopened for a specified period, such as 3 days.
+## 7. Set an Email Event
+
+Configure an email event to monitor the recipient's interaction. For example, set the workflow to wait for 3 days to see if the email is opened.
 
 ![Set Email Event](/public/email-drip-guide/wait-for-open.webp)
 
-## 8. Create an If/Else Conditional Branch:
-Add an if/else conditional branch to the workflow to create different paths based on the recipient's actions.
+## 8. Add an If/Else Conditional Branch
+
+Incorporate an if/else conditional branch to direct recipients down different paths based on their actions—whether they open the email or not.
 
 ![Conditional Branch](/public/email-drip-guide/conditional-branches.webp)
 
-## 9. Link Email Event to Conditional Branch:
-Connect the email event to the conditional branch to divide contacts into two paths depending on whether they open the email or not.
+## 9. Link Email Event to Conditional Branch
+
+Connect the email event to the conditional branch, dividing the contacts based on their behavior (e.g., opening or not opening the email).
 
 ![Link Email Event](/public/email-drip-guide/set-conditions.webp)
 
-## 10. Create Follow-Up Email:
-If the recipient opens the email, add another email action to send a follow-up message to further engage them.
+## 10. Create a Follow-Up Email
 
-## 11. Send SMS for Unopened Emails:
-If the recipient does not open the email within the specified time frame, set up an SMS action to send a text message as an alternative communication channel.
+For recipients who open the email, add a follow-up email to maintain engagement and guide them further down the funnel.
+
+## 11. Send SMS for Unopened Emails
+
+If the email remains unopened after the specified time, set up an SMS action to reach out via text message, offering an alternative way to engage the lead.
 
 ![Set SMS](/public/email-drip-guide/send-sms.webp)
 
-## 12. Save and Publish:
-Once you've configured your email drip sequence, save the workflow and switch it to "Publish" mode to activate the automation.
+## 12. Save and Publish Your Workflow
 
-By following these steps, you can create an effective email drip sequence to nurture leads and drive engagement with your flight school's audience.
+Once you've set up your email drip sequence, save the workflow. Switch it to "Publish" mode to activate the automation, ensuring your emails start going out as planned.
 
+By following these steps, you can create an effective email drip sequence that nurtures leads, increases engagement, and helps convert prospects into students.
 
 ## Further reading
 
-- Read [Build Automations](/src/content/docs/guides/build-auto-form.md)
+- [Build Automations](/guides/build-automations)
+- [Setup Email](/guides/setup-email)
+- [Create Custom Fields](/guides/custom-fields)

@@ -1,15 +1,16 @@
 ---
 title: Dashboard
-description: About the Dashboard feature.
+description: Gain insights into your operations with FSCRM’s Dashboard feature.
 ---
 
-The Dashboard feature in FSCRM serves as the central hub for flight school administrators and managers to gain quick insights into the performance and health of their operations. It provides a comprehensive overview of key metrics and KPIs, allowing users to track progress, identify trends, and make informed decisions to drive success.
+![Dashboard](/public/features/dashboard.webp)
 
-With the Dashboard, flight school personnel can easily monitor important indicators such as the number of opportunities in the pipeline, new leads generated, conversion rates, and overall spending. By consolidating this information into a single, intuitive interface, the Dashboard empowers users to assess performance at a glance and take proactive steps to optimize outcomes.
+The Dashboard in FSCRM provides a comprehensive overview of your flight school’s performance. Track key metrics like lead conversions, enrollment rates, and financials in real-time. This centralized hub allows you to monitor progress, identify trends, and make informed decisions to drive success.
 
-In addition to tracking core metrics, the Dashboard also offers customizable widgets and visualizations to tailor the display of information according to specific preferences and priorities. Users can configure the Dashboard to highlight the metrics that matter most to their flight school, whether it's student enrollment trends, marketing campaign performance, or financial metrics.
-
+Customizable widgets and visualizations let you tailor the display to your specific priorities, helping you focus on the metrics that matter most to your operations.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Opportunities](/features/opportunities)
+- [Google Ads Integration](/integrations/google-ads)
+- [Text Messaging](/features/text-messaging)

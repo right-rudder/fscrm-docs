@@ -1,43 +1,50 @@
 ---
 title: Bulk Import CSV of Contacts
-description: How to bulk import a csv file to contacts.
+description: How to efficiently import contacts in bulk using a CSV file in FSCRM.
 ---
 
-# Bulk Import CSV of Contacts
+The Bulk Import CSV feature in FSCRM lets you quickly import large numbers of contacts from an external CSV file into your CRM system. This is especially useful for migrating data from another platform or updating contact information in bulk.
 
-The Bulk Import CSV of Contacts feature in FSCRM allows flight schools to efficiently import a large number of contacts into the CRM system from an external CSV file. This feature is particularly useful when migrating data from another system or when updating contact information in bulk.
+## 1. Access the Contacts Section
 
-## 1. Navigate to the Contacts Section:
-Access the "Contacts" section on the sidebar menu of your FSCRM dashboard.
+Start by navigating to the "Contacts" section from the sidebar menu on your FSCRM dashboard.
 
-## 2. Find the Import Contacts Button:
-Locate and click on the "Import Contacts" button within the Contacts section to initiate the import process.
+## 2. Locate the Import Contacts Button
+
+Within the Contacts section, find and click the "Import Contacts" button to start the import process.
 
 ![Import Contacts Button](/public/bulk-csv-guide/navigate-to-import-contacts.png)
 
-## 3. Indicate the File to Import:
-A dialog box will appear prompting you to select the CSV file you want to import. Navigate to the location of your CSV file on your computer and select it.
+## 3. Select the CSV File to Import
+
+A dialog box will appear, prompting you to choose the CSV file you want to import. Browse your computer to find and select the appropriate CSV file.
 
 ![Select CSV File](/public/bulk-csv-guide/choose-csv-file.png)
 
-## 4. Ensure Proper CSV Formatting:
-Before proceeding, double-check that your CSV file is properly formatted according to the required specifications. Ensure that the data is organized into columns and rows, with each row representing a separate contact entry.
+## 4. Verify CSV Formatting
+
+Before proceeding, ensure that your CSV file is properly formatted. The file should be organized into columns and rows, with each row representing a separate contact entry. Double-check that the data aligns with FSCRM’s required specifications.
 
 ![CSV Formatting](/public/bulk-csv-guide/sample-csv.png)
 
-## 5. Map Fields from CSV to FSCRM:
-Map the fields in your CSV file with the corresponding fields in the FSCRM system. This step ensures accurate data import. Create [custom fields] (custom field feature) if your CSV contains fields not directly matching those in FSCRM.
+## 5. Map CSV Fields to FSCRM Fields
+
+Next, map the fields from your CSV file to the corresponding fields in FSCRM. This step is crucial for ensuring accurate data import. If your CSV contains fields that don’t directly match those in FSCRM, consider creating [custom fields](/src/content/docs/features/custom-fields.md) to accommodate the additional data.
 
 ![Map Fields](/public/bulk-csv-guide/map-fields-csv.png)
 
-## 6. Toggle Option for Separate Contact List:
-Choose whether to create a separate list of contacts based on the import. This option helps you keep track of newly imported contacts more efficiently.
+## 6. Choose a Separate Contact List (Optional)
+
+You have the option to create a separate list for the contacts you’re importing. This is useful for organizing and managing the newly imported contacts more efficiently.
 
 ![Toggle Option](/public/bulk-csv-guide/name-csv-import.png)
 
-## 7. Name and Upload:
-Give your import a descriptive name, then click on the "Upload" or "Import" button to initiate the import process. FSCRM will process the CSV file and import the contacts into the system.
+## 7. Name and Import Your Contacts
 
-## Further reading
+Finally, give your import a descriptive name, then click "Upload" or "Import" to begin the process. FSCRM will process the CSV file and import the contacts into your system.
 
-- [Custom Fields Feature](/src/content/docs/features/custom-fields.md)
+### **Further reading**
+
+- [Build Automations](/guides/build-automations)
+- [Create Custom Fields](/guides/custom-fields)
+- [Manage Opportunities](/guides/manage-opportunities)

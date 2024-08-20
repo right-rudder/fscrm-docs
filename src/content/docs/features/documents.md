@@ -1,11 +1,16 @@
 ---
 title: Documents
-description: A reference page in my new Starlight docs site.
+description: Manage important documents easily with FSCRM’s Documents feature.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+![Documents](/public/features/documents.webp)
+
+The Documents feature in FSCRM helps you organize and store all essential documents in one secure place. Whether it's training materials, enrollment forms, or compliance documents, you can easily upload, categorize, and retrieve files as needed.
+
+This feature ensures that all your critical documents are accessible to your team, reducing the time spent searching for information and improving overall efficiency.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Tasks](/features/tasks)
+- [Outlook Calendar Integration](/integrations/outlook-calendar)
+- [Send a Newsletter](/guides/send-newsletter)
