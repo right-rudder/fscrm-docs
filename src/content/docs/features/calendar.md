@@ -3,7 +3,7 @@ title: Calendar
 description: Keep your schedules organized with FSCRM’s integrated Calendar feature.
 ---
 
-![Calendar](/public/features/calendar.webp)
+![Calendar](/public/features/fscrm-calendar-feature.webp)
 
 The Calendar feature in FSCRM integrates seamlessly with platforms like Google Calendar, iCloud, and Outlook, bringing all your scheduling needs into one central location. Whether you’re managing appointments, training sessions, or team meetings, this feature ensures that everyone stays on the same page.
 

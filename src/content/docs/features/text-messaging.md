@@ -3,7 +3,7 @@ title: Text Messaging
 description: Communicate directly with leads via FSCRM’s Text Messaging feature.
 ---
 
-![Text Messaging](/public/features/text-messaging.webp)
+![Text Messaging](/public/features/fscrm-text-messaging-feature.webp)
 
 The Text Messaging feature in FSCRM allows you to engage with leads and students directly through SMS. Whether you're sending appointment reminders, event invitations, or promotional offers, text messaging is an effective way to ensure your messages are seen and acted upon.
 

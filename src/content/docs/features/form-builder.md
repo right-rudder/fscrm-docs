@@ -3,7 +3,7 @@ title: Form Builder
 description: Create customized intake forms with FSCRM’s Form Builder feature.
 ---
 
-![Form Builder](/public/features/form-builder.webp)
+![Form Builder](/public/features/fscrm-form-builder-feature.webp)
 
 The Form Builder feature in FSCRM enables you to design and deploy customized forms for capturing leads and gathering information. Whether it's a simple contact form or a detailed enrollment application, this tool allows you to create intuitive forms that drive conversions.
 

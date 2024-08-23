@@ -3,7 +3,7 @@ title: Conversations
 description: Centralize and manage all communications with leads and students using FSCRM’s Conversations feature.
 ---
 
-![Conversations](/public/features/conversations.webp)
+![Conversations](/public/features/fscrm-conversations-feature.webp)
 
 The Conversations feature in FSCRM centralizes all your communications, including emails, text messages, and notes, into one accessible interface. This makes it easy to track and manage every interaction with your leads and students, ensuring nothing slips through the cracks.
 

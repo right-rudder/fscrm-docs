@@ -3,7 +3,7 @@ title: Bulk Email
 description: Reach out to your leads with targeted email campaigns using FSCRM’s Bulk Email feature.
 ---
 
-![Bulk Email](/public/features/bulk-email.webp)
+![Bulk Email](/public/features/fscrm-bulk-email-feature.webp)
 
 The Bulk Email feature in FSCRM makes it easy to design and send professional email campaigns that resonate with your audience. Whether you're promoting a special event, announcing a new course, or sending regular newsletters, this tool ensures your message is delivered effectively.
 

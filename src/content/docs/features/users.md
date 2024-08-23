@@ -3,7 +3,7 @@ title: Users
 description: Manage team access and collaboration with FSCRM’s Users feature.
 ---
 
-![Users](/public/features/users.webp)
+![Users](/public/features/fscrm-users-feature.webp)
 
 The Users feature in FSCRM allows you to manage your team’s access and permissions within the platform. Easily add new users, assign roles, and customize permissions to ensure that each team member has the appropriate level of access based on their responsibilities.
 

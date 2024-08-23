@@ -3,7 +3,7 @@ title: Opportunities
 description: Track and manage lead progress and conversion with FSCRM’s Opportunities feature.
 ---
 
-![Opportunities](/public/features/opportunities.webp)
+![Opportunities](/public/features/fscrm-opportunities-feature.webp)
 
 The Opportunities feature in FSCRM is the central hub for tracking and managing the progress of your leads as they move through the enrollment process. This is where you can monitor every critical aspect of your leads, from their current stage in the pipeline to their potential value and origin.
 

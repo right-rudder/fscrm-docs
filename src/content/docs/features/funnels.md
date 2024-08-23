@@ -3,7 +3,7 @@ title: Funnels
 description: Build custom flows to guide leads through submissions and bookings with FSCRM’s Funnels feature.
 ---
 
-![Funnels](/public/features/funnels.webp)
+![Funnels](/public/features/fscrm-funnels-feature.webp)
 
 The Funnels feature in FSCRM allows you to create step-by-step or page-by-page flows that guide leads through form submissions, appointment bookings, or simply displaying important information. This tool enables you to design tailored paths that maximize engagement, helping prospects navigate their journey from initial interest to enrollment.
 

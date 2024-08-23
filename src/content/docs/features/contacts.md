@@ -3,7 +3,7 @@ title: Contacts
 description: Manage detailed lead and student profiles with FSCRM’s Contacts feature.
 ---
 
-![Contacts](/public/features/contacts.webp)
+![Contacts](/public/features/fscrm-contacts-feature.webp)
 
 The Contacts feature in FSCRM enables you to manage comprehensive profiles for all your leads and students. You can capture essential details such as contact information, training progress, and communication history, all in one place. This centralized database ensures that you have a complete view of each individual, making it easier to provide personalized support and follow-up.
 

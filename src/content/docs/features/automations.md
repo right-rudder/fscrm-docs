@@ -3,7 +3,7 @@ title: Automations
 description: Automate lead management and follow-ups with FSCRM’s Automations feature.
 ---
 
-![Automations](/public/features/automations.webp)
+![Automations](/public/features/fscrm-automations-feature.webp)
 
 The Automations feature in FSCRM is a powerful tool that helps streamline lead management and follow-ups. By automating tasks like sending personalized emails, updating lead statuses, and triggering actions based on specific criteria, you can ensure that every lead is properly nurtured without manual effort.
 

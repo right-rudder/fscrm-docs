@@ -3,7 +3,7 @@ title: Documents
 description: Manage important documents easily with FSCRM’s Documents feature.
 ---
 
-![Documents](/public/features/documents.webp)
+![Documents](/public/features/fscrm-documents-feature.webp)
 
 The Documents feature in FSCRM helps you organize and store all essential documents in one secure place. Whether it's training materials, enrollment forms, or compliance documents, you can easily upload, categorize, and retrieve files as needed.
 

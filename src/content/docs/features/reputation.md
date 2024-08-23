@@ -3,7 +3,7 @@ title: Reputation Management
 description: Monitor and enhance your online presence with FSCRM’s Reputation Management feature.
 ---
 
-![Reputation Management](/public/features/reputation-management.webp)
+![Reputation Management](/public/features/fscrm-reputation-feature.webp)
 
 The Reputation Management feature in FSCRM allows you to actively monitor and manage your flight school’s online reputation. Request and track reviews from students across platforms like Google, Yelp, and Facebook, ensuring a steady stream of feedback from satisfied clients.
 
