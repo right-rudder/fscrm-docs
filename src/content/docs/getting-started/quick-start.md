@@ -56,8 +56,12 @@ Now that your settings are configured from onboarding and your pipeline is creat
 
 ## Integrate Forms
 
+pending
+
 ## Create Automations
+
+pending
 
 ## Need more help?
 
-- Submit a [ticket](https://flightschoolcrm.com/contact) and one of our team members will help you out!
+- Submit a [ticket](https://rightruddermarketing.com/contact-us) and one of our team members will help you out!
