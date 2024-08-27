@@ -13,7 +13,7 @@ We're going to be going over the steps to set up FSCRM at your flight school. Th
 
 ## Complete Onboarding
 
-To get started with FSCRM, you'll need to schedule an onboarding call with one of our team members. On this call, we will do the following:
+To get started with FSCRM, you'll need to [schedule an onboarding call](https://rightruddermarketing.com/schedule-call) with one of our team members. On this call, we will do the following:
 
 ### 1. **User Setup:**
    - Collect team info for usernames and passwords.

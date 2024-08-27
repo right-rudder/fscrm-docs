@@ -7,11 +7,11 @@ Flight School CRM is designed to streamline your flight school operations, from 
 
 ### 1. Visit the Flight School CRM Website
 
-Go to the official Flight School CRM website. Here, you’ll find detailed information about the platform’s features, benefits, and how it can support your flight school’s needs.
+Go to the official [Flight School CRM](https://flightschoolcrm.com/contact) website. Here, you’ll find detailed information about the platform’s features, benefits, and how it can support your flight school.
 
 ### 2. Request a Consultation Call
 
-To begin the process of acquiring Flight School CRM, you’ll need to request a consultation call. Look for the "Request a Consultation" button or form on the website, and fill out your contact information. This consultation is an essential first step in the onboarding process.
+To begin the process of acquiring Flight School CRM, you’ll need to request a consultation call. Look for the "Start Today" button or form on the website, and fill out your contact information. This consultation is an essential first step in the onboarding process.
 
 ### 3. Schedule and Prepare for Your Consultation
 
