@@ -13,21 +13,20 @@ We're going to be going over the steps to set up FSCRM at your flight school. Th
 
 ## Complete Onboarding
 
-<<<<<<< HEAD
 To get started with FSCRM, you'll need to [schedule an onboarding call](https://rightruddermarketing.com/schedule-call) with one of our team members. On this call, we will do the following:
-=======
-To get started with FSCRM, you'll need to schedule an onboarding call with one of our team members. On this call, we will do the following:
->>>>>>> bb3ee46 (fscrm guides, faature images, and other revisions)
 
 ### 1. **User Setup:**
-   - Collect team info for usernames and passwords.
-   - Set up user accounts in the CRM.
+
+- Collect team info for usernames and passwords.
+- Set up user accounts in the CRM.
 
 ### 2. **Technical Setup:**
-   - Our team will help set up [subdomains](/guides/setup-subdomain), [phone system](/guides/setup-phone-system), and [SMTP](/guides/setup-email) (email) if you've purchased our setup service. If not, we will direct you to the necessary resources where you can do it yourself and also answer any additional questions on the call.
+
+- Our team will help set up [subdomains](/guides/setup-subdomain), [phone system](/guides/setup-phone-system), and [SMTP](/guides/setup-email) (email) if you've purchased our setup service. If not, we will direct you to the necessary resources where you can do it yourself and also answer any additional questions on the call.
 
 ### 3. **Team Training:**
-   - This is when we help train your team on how to use the CRM and also answer any additional questions on how to best use the CRM for your use case.
+
+- This is when we help train your team on how to use the CRM and also answer any additional questions on how to best use the CRM for your use case.
 
 Get through onboarding for a smooth integration of FSCRM into your flight school's operations. This onboarding call will be scheduled after you've paid and signed the service agreement.
 
@@ -65,10 +64,6 @@ Now that your settings are configured from onboarding and your pipeline is creat
 
 ## Integrate Forms
 
-<<<<<<< HEAD
-
-=======
->>>>>>> bb3ee46 (fscrm guides, faature images, and other revisions)
 Integrating forms with FSCRM allows you to capture leads directly from your website and automatically funnel them into your CRM. This integration ensures that no leads slip through the cracks and that your team can promptly follow up with each inquiry.
 
 ### 1. **Create or Select a Form**
