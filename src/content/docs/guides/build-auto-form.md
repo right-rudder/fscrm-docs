@@ -11,15 +11,9 @@ Start by navigating to the "Automations" tab on the sidebar of your FSCRM dashbo
 
 ![Automations Tab](/build-automations-guide/automations-tab.webp)
 
-![Workflow options](/build-automations-guide/workflow-options.webp)
-_<p style="text-align: center;">Here you'll find the list of workflows available</p>_
-
 ### 2. Explore Available Workflows
 
 Once in the Automations tab, you’ll see a list of pre-designed workflows. These workflows serve various purposes such as engaging potential students, responding to form submissions, and managing contacts and opportunities.
-
-![Choose workflow](/build-automations-guide/choose-workflow.webp)
-_<p style="text-align: center;">Choose whether you want to build a new workflow or use a template</p>_
 
 ![Workflow Options](/build-automations-guide/workflow-options.webp)  
 _<p style="text-align: center;">Browse the available workflows to find one that meets your needs</p>_
@@ -27,9 +21,6 @@ _<p style="text-align: center;">Browse the available workflows to find one that 
 ### 3. Select or Create a Workflow
 
 Choose a workflow that aligns with your objectives, or click on "Create Workflow" in the top right corner to start from scratch.
-
-![Name workflow](/build-automations-guide/name-workflow.webp)
-_<p style="text-align: center;">A blank workflow</p>_
 
 ![Choose Workflow](/build-automations-guide/choose-workflow.webp)  
 _<p style="text-align: center;">Decide whether to build a new workflow or use an existing template</p>_
@@ -41,49 +32,28 @@ Provide a descriptive name for your new workflow that clearly indicates its purp
 ![Name Workflow](/public/build-automations-guide/name-workflow.webp)
 _<p style="text-align: center;">A blank workflow ready to be customized</p>_
 
-![Form Trigger](/build-automations-guide/form-trigger.webp)
-_<p style="text-align: center;">Find the form trigger</p>_
-
-![Choose form](/build-automations-guide/choose-form.webp)
-_<p style="text-align: center;">Choose which form fits best</p>_
-
 ### 5. Add a Trigger
 
 Triggers initiate your workflow. Click "Add New Trigger" and choose the type of trigger that will start the automation. In this example, we’ll use a form submission trigger.
 
-![Create contact](/build-automations-guide/create-contact.webp)
-_<p style="text-align: center;">Tell the form to create a contact</p>_
+![Form Trigger](/build-automations-guide/form-trigger.webp)
+_<p style="text-align: center;">Find the form trigger</p>_
 
 ### 6. Configure Your Trigger
 
 Select the specific form that will activate the automation upon submission. Make sure to save your trigger settings after selecting the correct form.
 
-![Form fields](/build-automations-guide/form-fields.webp)
-_<p style="text-align: center;">Linking form fields to contact fields</p>_
-
-![Form Trigger](/build-automations-guide/form-trigger.webp)
-_<p style="text-align: center;">Set the form submission as your trigger</p>_
-
 ![Choose Form](/build-automations-guide/choose-form.webp)
 _<p style="text-align: center;">Select the form that fits your automation goals</p>_
-
-![Create opportunity](/build-automations-guide/create-opportunity.webp)
-_<p style="text-align: center;">Find the opportunity creation trigger</p>_
 
 ### 7. Create a Contact
 
 Next, click the plus button below your trigger and select "Create Contact" to add a step that will automatically create a contact from the form submission.
 
-![Configure opportunity fields](/build-automations-guide/configure-opportunity-field.webp)
-_<p style="text-align: center;">Configure the preset opportunity fields</p>_
-
 ![Create Contact](/build-automations-guide/create-contact.webp)
 _<p style="text-align: center;">Set the workflow to create a new contact</p>_
 
 ### 8. Link Form Fields to Contact Fields
-
-![Save and publish](/build-automations-guide/save-and-publish.webp)
-_<p style="text-align: center;">Save and publish it!</p>_
 
 Link the form fields to the corresponding contact fields within the CRM to ensure the right information is captured.
 
