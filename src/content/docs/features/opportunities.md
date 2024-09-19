@@ -1,15 +1,23 @@
 ---
 title: Opportunities
-description: About the Opportunities feature.
+description: Track and manage lead progress and conversion with FSCRM’s Opportunities feature.
 ---
 
-The Opportunities feature helps track the value, source, and activity of revenue opportunities, providing flight schools with valuable insights into their sales pipeline and conversion process. With distinct stages tailored to each step of the sales cycle, FSCRM enables users to convert leads into enrolled students with precision and efficiency.
+![Opportunities](/public/features/fscrm-opportunities-feature.webp)
 
-Flight schools can utilize the Opportunities feature to create and manage opportunities for prospective students, assigning them to specific stages that reflect their progression through the enrollment journey. From initial inquiry to enrollment confirmation, each stage represents a milestone in the sales process, allowing users to track and monitor the status of opportunities in real-time.
+The Opportunities feature in FSCRM is the central hub for tracking and managing the progress of your leads as they move through the enrollment process. This is where you can monitor every critical aspect of your leads, from their current stage in the pipeline to their potential value and origin.
 
-Additionally, the Opportunities feature facilitates efficient activity management, allowing users to log interactions, schedule follow-up tasks, and monitor engagement with each opportunity. With built-in reminders and notifications, FSCRM ensures that users stay proactive and responsive throughout the sales cycle, maximizing the likelihood of conversion and retention.
+With Opportunities, you can:
 
+- **Track Lead Progress:** Clearly see where each lead is in their journey toward becoming a student, from initial inquiry to final enrollment. This visibility allows you to focus your efforts on nurturing leads that are close to conversion.
+- **Assess Lead Value:** Each opportunity can be assigned a potential value, helping you prioritize your efforts on the leads that are most beneficial to your flight school.
+- **Identify Lead Source:** Easily track where your leads are coming from, whether it’s a specific marketing campaign, referral, or organic traffic. This helps you understand which channels are most effective in driving new business.
+- **Monitor Pipeline Volume:** The Opportunities feature provides a comprehensive view of your entire sales pipeline, allowing you to see the volume of leads at each stage. This helps you anticipate future enrollment numbers and manage your resources accordingly.
+
+Right Rudder Marketing (RRM) recommends funneling all leads into the Opportunities feature for a streamlined, easy-to-manage view of who needs nurturing. This centralized approach ensures that no lead is overlooked and that your team can focus on guiding prospects toward becoming enrolled students.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Contacts](/features/contacts)
+- [Text Messaging](/features/text-messaging)
+- [WordPress Integration](/integrations/wordpress)

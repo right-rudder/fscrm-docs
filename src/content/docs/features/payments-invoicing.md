@@ -1,11 +1,16 @@
 ---
 title: Payments and Invoicing
-description: A reference page in my new Starlight docs site.
+description: Manage and track your financial transactions with FSCRM’s Payments and Invoicing feature.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+![Payments and Invoicing](/public/features/fscrm-payments-feature.webp)
+
+The Payments and Invoicing feature in FSCRM streamlines your financial processes by allowing you to create, send, and track invoices for your flight school services. This feature ensures that you can manage your finances efficiently, with all transactions being easily tracked in one place.
+
+Students can make payments directly through the CRM, providing them with a seamless and convenient experience. Additionally, you can monitor the status of invoices, set up reminders for overdue payments, and maintain a clear overview of your flight school’s financial health.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Tasks](/features/tasks)
+- [Phone System](/features/phone-system)
+- [Embed a Form on Your Website](/guides/embed-form)

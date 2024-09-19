@@ -1,15 +1,16 @@
 ---
 title: Conversations
-description: About the Conversations feature.
+description: Centralize and manage all communications with leads and students using FSCRM’s Conversations feature.
 ---
 
-The Conversations feature in FSCRM offers flight schools a centralized hub for managing email communications with students, providing a convenient and efficient way to track and organize dialogue interactions. With this feature, all email conversations, whether initiated by students or flight school staff, are consolidated and accessible within the Conversations tab, eliminating the need to sift through multiple inboxes or threads to find relevant messages.
+![Conversations](/public/features/fscrm-conversations-feature.webp)
 
-Flight school staff can easily respond to student inquiries and messages directly from FSCRM, streamlining communication workflows and minimizing the risk of missed or overlooked emails. Additionally, the Conversations feature enables collaborative communication among team members, as all interactions are visible and accessible to authorized users within the CRM platform.
+The Conversations feature in FSCRM centralizes all your communications, including emails, text messages, and notes, into one accessible interface. This makes it easy to track and manage every interaction with your leads and students, ensuring nothing slips through the cracks.
 
-By centralizing email conversations within the Conversations feature, flight schools can improve communication efficiency, enhance transparency, and provide a seamless experience for both students and staff. Flight instructors, administrators, and support teams can collaborate effectively to address student inquiries, resolve issues, and provide timely assistance, ultimately fostering stronger relationships and delivering exceptional customer service.
-
+This feature also supports collaboration, allowing your team to view and contribute to conversations, ensuring a consistent and professional approach to communication. By having all conversations in one place, you can quickly access past interactions, making follow-ups more effective and ensuring that your team stays aligned.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Dashboard](/features/dashboard)
+- [Reputation Management](/features/reputation-management)
+- [Embed a Chat on Your Website](/guides/embed-chat)

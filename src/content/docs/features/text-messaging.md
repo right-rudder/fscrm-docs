@@ -1,13 +1,16 @@
 ---
 title: Text Messaging
-description: About the Text Messaging feature.
+description: Communicate directly with leads via FSCRM’s Text Messaging feature.
 ---
 
-The Text Messaging feature in FSCRM provides flight schools with a streamlined and efficient way to communicate with leads via text messages, enhancing engagement and driving conversions. Flight school administrators can send automated text message templates for appointment reminders, event invitations, or promotional offers, saving time and ensuring timely communication with leads.
+![Text Messaging](/public/features/fscrm-text-messaging-feature.webp)
 
-The Text Messaging feature allows flight schools to personalize messages and engage in two-way communication directly from the CRM platform. Administrators can tailor messages to individual leads, fostering stronger relationships and addressing inquiries or concerns promptly. By integrating text messaging into their communication strategies, flight schools can effectively nurture leads, improve engagement, and achieve enrollment goals faster.
+The Text Messaging feature in FSCRM allows you to engage with leads and students directly through SMS. Whether you're sending appointment reminders, event invitations, or promotional offers, text messaging is an effective way to ensure your messages are seen and acted upon.
 
+This feature supports automated text sequences, two-way communication, and personalized messaging, helping you maintain strong relationships with your leads and ensuring timely follow-ups. Integrating text messaging into your communication strategy can significantly enhance engagement and accelerate the conversion process.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Automations](/features/automations)
+- [Opportunities](/features/opportunities)
+- [Facebook Messenger Integration](/integrations/facebook-messenger)

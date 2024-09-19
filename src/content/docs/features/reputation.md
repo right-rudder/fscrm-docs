@@ -1,15 +1,16 @@
 ---
 title: Reputation Management
-description: About the Reputation Management feature.
+description: Monitor and enhance your online presence with FSCRM’s Reputation Management feature.
 ---
 
-The Reputation Management feature in FSCRM provides flight schools with a centralized platform to actively manage their online reputation by soliciting, monitoring, and responding to reviews directly from the CRM. Flight schools can request students to leave reviews through personalized email campaigns or automated prompts, ensuring a steady stream of feedback from satisfied customers.
+![Reputation Management](/public/features/fscrm-reputation-feature.webp)
 
-Within the Reputation Management dashboard, flight schools can easily track and monitor incoming reviews from various online platforms, including Google, Yelp, and Facebook. This allows them to stay informed about their overall reputation and promptly address any negative feedback or concerns raised by students.
+The Reputation Management feature in FSCRM allows you to actively monitor and manage your flight school’s online reputation. Request and track reviews from students across platforms like Google, Yelp, and Facebook, ensuring a steady stream of feedback from satisfied clients.
 
-Moreover, flight schools can leverage FSCRM's AI responder functionality to automatically generate personalized responses to reviews, saving time and effort while maintaining a professional and consistent tone. Although this feature is optional and disabled by default, it offers an efficient way to engage with reviewers and demonstrate proactive customer service.
-
+This feature also enables you to respond to reviews directly from within the CRM, helping you maintain a positive online presence and address any concerns promptly. Optional AI-generated responses can save time while maintaining a professional tone, though manual input is always available for more personalized interactions.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Automations](/features/automations)
+- [Notes](/features/notes)
+- [Google My Business Integration](/integrations/google-my-business)

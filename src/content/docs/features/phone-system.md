@@ -1,13 +1,16 @@
 ---
 title: Phone System
-description: About the Phone System feature.
+description: Efficiently manage inbound and outbound calls with FSCRM’s Phone System feature.
 ---
 
-The Phone System feature is best used to efficiently manage inbound calls through customizable call routing and advanced call management capabilities. Flight schools can set up personalized call flows to direct incoming calls to the appropriate destinations based on various criteria such as the nature of the inquiry or the caller's location. This ensures that callers are promptly connected to the right person or department, enhancing customer service and responsiveness.
+![Phone System](/public/features/fscrm-phone-numbers-feature.webp)
 
-Additionally, the Phone System supports call waterfalling, call forwarding, voicemail, and IVR menus, enabling flight schools to provide a seamless and professional calling experience for their students and prospects. Integration with other communication channels and CRM functionalities ensures centralized tracking and management of all interactions, offering valuable insights into call activities and optimizing communication workflows. With the Phone System feature, flight schools can streamline their phone-based communications and improve operational efficiency.
+The Phone System feature in FSCRM equips you with advanced call management capabilities, ensuring that every call is handled efficiently. With customizable call routing, you can direct inbound calls to the right person or department based on specific criteria such as the nature of the inquiry or the caller’s location.
 
+This feature supports additional functionalities like call forwarding, voicemail, and interactive voice response (IVR) menus, providing a professional and seamless experience for your leads and students. Integration with other CRM features allows you to track all interactions in one place, optimizing communication workflows and improving response times.
 
 ## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- [Opportunities](/features/opportunities)
+- [Conversations](/features/conversations)
+- [Google Ads Integration](/integrations/google-ads)
