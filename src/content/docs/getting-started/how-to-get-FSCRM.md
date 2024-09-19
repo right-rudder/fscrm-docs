@@ -32,3 +32,7 @@ Once you agree to move forward, the onboarding process will begin. The Flight Sc
 - [Setup Subdomain](/guides/setup-subdomain)
 - [How to Build Automations](/guides/build-automations)
 - [Setup Phone System](/guides/setup-phone-system)
+Please contact a Right Rudder Marketing team member
+
+[CONTACT US](https://rightruddermarketing.com/contact-us)
+

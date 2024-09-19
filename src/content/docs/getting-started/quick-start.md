@@ -61,6 +61,7 @@ Now that your settings are configured from onboarding and your pipeline is creat
 
 ## Integrate Forms
 
+
 Integrating forms with FSCRM allows you to capture leads directly from your website and automatically funnel them into your CRM. This integration ensures that no leads slip through the cracks and that your team can promptly follow up with each inquiry.
 
 ### 1. **Create or Select a Form**
@@ -109,4 +110,4 @@ For more detailed steps on setting up automations, visit the [build automations 
 
 ## Need more help?
 
-- Submit a [ticket](https://flightschoolcrm.com/contact) and one of our team members will help you out!
+- Submit a [ticket](https://rightruddermarketing.com/contact-us) and one of our team members will help you out!

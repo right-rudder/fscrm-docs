@@ -3,7 +3,7 @@ title: Appointments
 description: Capture and manage leads with FSCRM’s Appointments feature.
 ---
 
-![Book Appointment](/public/features/book-appointment.webp)
+![Book Appointment](/features/book-appointment.webp)
 
 The Appointments feature in FSCRM is a powerful tool for lead generation and intake. It allows potential students to easily book consultations or introductory sessions with your flight school, helping them make informed decisions about their training.
 
