@@ -3,7 +3,7 @@ title: Phone System
 description: Efficiently manage inbound and outbound calls with FSCRM’s Phone System feature.
 ---
 
-![Phone System](/public/features/fscrm-phone-numbers-feature.webp)
+![Phone System](/features/fscrm-phone-numbers-feature.webp)
 
 The Phone System feature in FSCRM equips you with advanced call management capabilities, ensuring that every call is handled efficiently. With customizable call routing, you can direct inbound calls to the right person or department based on specific criteria such as the nature of the inquiry or the caller’s location.
 

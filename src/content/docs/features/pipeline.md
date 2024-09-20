@@ -3,7 +3,7 @@ title: Pipeline
 description: Visualize and manage your sales process with FSCRM’s Pipeline feature.
 ---
 
-![Pipeline](/public/features/fscrm-pipeline-feature.webp)
+![Pipeline](/features/fscrm-pipeline-feature.webp)
 
 The Pipeline feature in FSCRM offers a clear visualization of your sales process, allowing you to track the progress of each opportunity from initial contact to final enrollment. This feature enables you to see where each lead stands, identify bottlenecks, and take proactive steps to move them through the pipeline.
 

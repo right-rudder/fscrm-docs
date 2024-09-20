@@ -3,7 +3,7 @@ title: Tags
 description: Organize and segment your contacts and opportunities with FSCRM’s Tags feature.
 ---
 
-![Tags](/public/features/fscrm-tags-feature.webp)
+![Tags](/features/fscrm-tags-feature.webp)
 
 The Tags feature in FSCRM is a powerful tool for organizing and categorizing your contacts and opportunities based on specific attributes or actions. By applying tags, you can easily segment your leads and students, allowing for more targeted communication and efficient workflow management.
 
