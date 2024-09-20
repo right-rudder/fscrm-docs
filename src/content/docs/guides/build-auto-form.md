@@ -29,7 +29,7 @@ _<p style="text-align: center;">Decide whether to build a new workflow or use an
 
 Provide a descriptive name for your new workflow that clearly indicates its purpose. After naming it, save your changes by clicking the save button in the top right corner.
 
-![Name Workflow](/public/build-automations-guide/name-workflow.webp)
+![Name Workflow](/build-automations-guide/name-workflow.webp)
 _<p style="text-align: center;">A blank workflow ready to be customized</p>_
 
 ### 5. Add a Trigger
