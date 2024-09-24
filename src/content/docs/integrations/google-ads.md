@@ -13,35 +13,35 @@ Navigate to the "Integrations" tab on the sidebar of your FSCRM dashboard.
 
 Scroll through the list of available integrations until you find "Google Ads." Click on it to begin the integration process.
 
-![Google Ads Integration](/src/assets/google-ads-integration/google-ads-integration.webp)  
+![Google Ads Integration](/google-ads-integration/google-ads-integration.webp)  
 *<p style="text-align: center;">Select Google Ads from the integrations list</p>*
 
 ## 3. Connect Your Google Ads Account
 
 Click on "Connect" to link your Google Ads account. You’ll be prompted to sign in to your Google account and grant FSCRM permission to access your Google Ads data.
 
-![Connect Google Ads Account](/src/assets/google-ads-integration/connect-google-ads-account.webp)  
+![Connect Google Ads Account](/google-ads-integration/connect-google-ads-account.webp)  
 *<p style="text-align: center;">Sign in to your Google account and authorize the connection</p>*
 
 ## 4. Select Campaigns to Track
 
 After connecting your Google Ads account, select the campaigns you want to track within FSCRM. You can choose specific campaigns that are relevant to your CRM data.
 
-![Select Campaigns](/src/assets/google-ads-integration/lead-tracking.webp)  
+![Select Campaigns](/google-ads-integration/lead-tracking.webp)  
 *<p style="text-align: center;">Choose which campaigns to track in FSCRM</p>*
 
 ## 5. Configure Ads Profile
 
 Indicate which Google Ads account you want in FSCRM by selecting the account and property.
 
-![Ads Profile](/src/assets/google-ads-integration/test-google-ads-integration.webp)  
+![Ads Profile](/google-ads-integration/test-google-ads-integration.webp)  
 *<p style="text-align: center;">Configure your ad profile settings in FSCRM</p>*
 
 ## 6. Test the Integration
 
 Test the integration by running a test ad or using an existing ad and see its performance in the "Reporting" tab.
 
-![Google Ads Reporting Tab](/src/assets/google-ads-integration/reporting-google-ads.webp)  
+![Google Ads Reporting Tab](/google-ads-integration/reporting-google-ads.webp)  
 *<p style="text-align: center;">Save your settings to finalize the integration</p>*
 
 ## 7. Save and Finalize

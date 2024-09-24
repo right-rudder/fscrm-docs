@@ -17,7 +17,7 @@ Find the tab at the top called "Connections." Click on it to begin the integrati
 
 Toggle on the "Enable Google Organic Booking" feature to link your Google account. You’ll be prompted to sign in to your Google account and grant FSCRM permission to access your calendar.
 
-![Enable Organic Booking](/src/assets/google-calendar-integration/google-calendar-connection.webp)  
+![Enable Organic Booking](/google-calendar-integration/google-calendar-connection.webp)  
 *<p style="text-align: center;">Sign in to your Google account and authorize the connection</p>*
 
 ## 4. Choose Calendar Settings

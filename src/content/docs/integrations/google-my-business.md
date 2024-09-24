@@ -13,7 +13,7 @@ Navigate to the "Integrations" tab on the sidebar of your FSCRM dashboard.
 
 Scroll through the list of available integrations until you find "Google My Business." Click on it to begin the integration process.
 
-![Google My Business Integration](/src/assets/google-my-business-integration/google-my-business-integration.webp)  
+![Google My Business Integration](/google-my-business-integration/google-my-business-integration.webp)  
 *<p style="text-align: center;">Select Google My Business from the integrations list</p>*
 
 ## 3. Connect Your Google Account
@@ -24,14 +24,14 @@ Click on "Connect" to link your Google account. You’ll be prompted to sign in 
 
 After connecting your Google account, select the Google My Business profile you want to manage through FSCRM. This profile will be used to manage reviews, update business information, and track insights.
 
-![Select GMB Profile](/src/assets/google-my-business-integration/select-gmb-profile.webp)  
+![Select GMB Profile](/google-my-business-integration/select-gmb-profile.webp)  
 *<p style="text-align: center;">Choose the Google My Business profile to manage through FSCRM</p>*
 
 ## 5. Manage Reviews and Business Information
 
 Once your Google My Business profile is connected, you can manage your reviews, update business information, and track customer engagement directly from FSCRM. This integration allows you to respond to reviews promptly and maintain accurate business details across Google.
 
-![Manage Reviews](/src/assets/google-my-business-integration/manage-reviews.webp)  
+![Manage Reviews](/google-my-business-integration/manage-reviews.webp)  
 *<p style="text-align: center;">Manage and respond to reviews from within FSCRM</p>*
 
 ## 6. Test the Integration
