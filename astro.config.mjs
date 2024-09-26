@@ -1,43 +1,54 @@
-import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'FSCRM Docs',
-      customCss: [
-        './src/styles/custom.css',
-      ],
-			logo: { src: './src/assets/rightruddermarketinglogosolo.png' },
+  site: "https://docs.flightschoolcrm.com/",
+  integrations: [
+    starlight({
+      title: "FSCRM Docs",
+      customCss: ["./src/styles/custom.css"],
+      logo: { src: "./src/assets/rightruddermarketinglogosolo.png" },
       //social: {
-			//	github: 'https://github.com/withastro/starlight',
-			//},
-			sidebar: [
-				{
-					label: 'Getting Started',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'How to get Flight School CRM', link: '/getting-started/how-to-get-fscrm' },
-            { label: 'Setup Onboarding', link: 'https://rightruddermarketing.com/contact-us' }, //link to main site for calendly
-            { label: 'Quick Start Guide', link: '/getting-started/quick-start/' },
-            { label: 'FAQs', link: '/getting-started/faq/' },
-            { label: 'Support Ticket', link: 'https://rightruddermarketing.com/contact-us' }, //link to main site for support ticket
-					],
-				},
+      //	github: 'https://github.com/withastro/starlight',
+      //},
+      sidebar: [
         {
-					label: 'How To Guides',
-					autogenerate: { directory: 'guides' },
-				},
+          label: "Getting Started",
+          items: [
+            // Each item here is one entry in the navigation menu.
+            {
+              label: "How to get Flight School CRM",
+              link: "/getting-started/how-to-get-fscrm",
+            },
+            {
+              label: "Setup Onboarding",
+              link: "https://rightruddermarketing.com/contact-us",
+            }, //link to main site for calendly
+            {
+              label: "Quick Start Guide",
+              link: "/getting-started/quick-start/",
+            },
+            { label: "FAQs", link: "/getting-started/faq/" },
+            {
+              label: "Support Ticket",
+              link: "https://rightruddermarketing.com/contact-us",
+            }, //link to main site for support ticket
+          ],
+        },
         {
-					label: 'Features',
-					autogenerate: { directory: 'features' },
-				},
+          label: "How To Guides",
+          autogenerate: { directory: "guides" },
+        },
         {
-					label: 'Integrations',
-					autogenerate: { directory: 'integrations' },
-				},
-			],
-		}),
-	],
+          label: "Features",
+          autogenerate: { directory: "features" },
+        },
+        {
+          label: "Integrations",
+          autogenerate: { directory: "integrations" },
+        },
+      ],
+    }),
+  ],
 });
