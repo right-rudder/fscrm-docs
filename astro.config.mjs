@@ -9,9 +9,6 @@ export default defineConfig({
       title: "FSCRM Docs",
       customCss: ["./src/styles/custom.css"],
       logo: { src: "./src/assets/rightruddermarketinglogosolo.png" },
-      //social: {
-      //	github: 'https://github.com/withastro/starlight',
-      //},
       sidebar: [
         {
           label: "Getting Started",
